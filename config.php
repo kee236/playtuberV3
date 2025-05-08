@@ -67,7 +67,7 @@ else{
 
 
 //**** custum add 
-
+/*
 if(!in_array($_SERVER['REMOTE_ADDR'], $whitelist)){
     define('DEBUG_MODE', false);
 } else {
@@ -103,7 +103,7 @@ if(!in_array($_SERVER['REMOTE_ADDR'], $whitelist)){
 }
 
 
-
+*/
 
 
 
