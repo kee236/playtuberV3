@@ -27,6 +27,7 @@ $purchase_code = "a90e6261-adb0-416b-a950-6da7519867c6"; // Your purchase code, 
 
 ////****
 
+/*
 
 $whitelist = array('127.0.0.1', '::1');
 // MySQL Hostname
@@ -56,7 +57,7 @@ else{
 // Purchase code
 //$purchase_code = "12345678"; // Your purchase code, don't give it to anyone. 
 
-
+*/
 ***////
 
 
